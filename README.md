@@ -41,7 +41,7 @@ Exibir "Tente adivinhar o número entre 1 e 100"
 |                  |     |                      |
 |                  |     v                      |
 |                  | Exibir "Muito alto!"       |
-|                  |                            |
+|                  |     |                      |
 |                  |     +---- Não              |
 |                  |     |                      |
 |                  |     v                      |
